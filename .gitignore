@@ -1,0 +1,5 @@
+median_filter.exe 
+median_filter 
+*.obj 
+*.pdb 
+img/filtered/
